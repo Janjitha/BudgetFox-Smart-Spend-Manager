@@ -146,10 +146,3 @@ Enter month (e.g., July): July
 Enter choice: 6
 👋 Exiting. Stay smart with BudgetFox!
 ```
-
-### 7. Invalid Option
-```
-Enter choice: 9
-❌ Invalid choice.
-```
-
